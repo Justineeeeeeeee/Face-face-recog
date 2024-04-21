@@ -1,1 +1,2 @@
-# Face-face-recog
+# facerecog-js-activity
+facerecog-js-activity
